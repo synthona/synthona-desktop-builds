@@ -5,6 +5,7 @@
 - file nodes are now "linked" instead of "uploaded" and can be launched directly from synthona
 - ability to launch various file types from synthona ranging from word documents, pdfs, mp3s, etc
 - added ability to upload multiple files at once
+- added ability to replace the preview image on URL nodes
 - added "right click to launch" contextual options to URL nodes, File nodes
 - misc bug fixes and small upgrades
 - added a few new colors to the synthona text node editor
